@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'some Documentation'
-copyright = '2021, girisha'
+copyright = '2021, amulya'
 author = 'Amulya'
 
 # The full version, including alpha/beta/rc tags
